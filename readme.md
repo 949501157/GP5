@@ -22,3 +22,14 @@
 ## 提交到暂存区
 - git add 文件名
 - git 打的 . 将所有变动暂存区
+
+## 提交到本地仓库
+- git commit -m '第一次'
+
+## 查看日志
+- git log
+- git reflog
+
+## 版本回退
+- git reset --hader HEAD^ 回退到上一个版本
+- git reset --hader 版本号 回到指定版本
