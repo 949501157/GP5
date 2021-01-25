@@ -31,5 +31,5 @@
 - git reflog
 
 ## 版本回退
-- git reset --hader HEAD^ 回退到上一个版本
-- git reset --hader 版本号 回到指定版本
+- git reset --hard HEAD^ 回退到上一个版本
+- git reset --hard 版本号 回到指定版本
